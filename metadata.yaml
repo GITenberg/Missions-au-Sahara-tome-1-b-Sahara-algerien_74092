@@ -1,0 +1,57 @@
+_repo: Missions-au-Sahara-tome-1-b-Sahara-algerien_74092
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Germain, Louis
+    alias: Germain, L. (Louis)
+    birthdate: 1878
+    deathdate: 1942
+    gutenberg_agent_id: '57346'
+    url: http://www.gutenberg.org/2009/agents/57346
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Louis_Germain
+    - https://fr.wikipedia.org/wiki/Louis_Germain_(malacologiste)
+  - agent_name: Pouget, Isidore
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '57345'
+    url: http://www.gutenberg.org/2009/agents/57345
+creator:
+  author:
+    agent_name: Gautier, E. F. (Emile Félix)
+    aliases:
+    - Gautier, Émile-Félix
+    - Gautier, Emile Félix
+    - Gautier, E. F. (Emile Felix)
+    birthdate: 1864
+    deathdate: 1940
+    gutenberg_agent_id: '57344'
+    url: http://www.gutenberg.org/2009/agents/57344
+    wikipedia:
+    - https://en.wikipedia.org/wiki/%C3%89mile-F%C3%A9lix_Gautier
+    - https://fr.wikipedia.org/wiki/%C3%89mile-F%C3%A9lix_Gautier
+description: ''
+gutenberg_issued: '2024-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74092'
+language: fr
+pgterms:marc904: https://patrimoine.sorbonne-universite.fr/fonds/item/2419-missions-au-sahara-tome-1-sahara-algerien
+pgterms:marc905: 20240625105354gautier
+pgterms:marc906: '1908'
+pgterms:marc907: FR
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by Bibliothèque de Sorbonne Université/SorbonNum and the HathiTrust Digital
+  Library/University of Michigan)
+publication_note: '  $aParis :$bArmand Colin, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sahara'
+- !lcsh 'Geology -- Algeria'
+- !lcc 'DT'
+- !lcc 'QE'
+- GITenberg
+title: 'Missions au Sahara, tome 1 : $b Sahara algérien'
+url: http://www.gutenberg.org/ebooks/74092
