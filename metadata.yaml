@@ -16,6 +16,9 @@ contributor:
     deathdate: 1933
     gutenberg_agent_id: '57345'
     url: http://www.gutenberg.org/2009/agents/57345
+covers:
+- cover_type: archival
+  image_path: 74092-h/images/cover.jpg
 creator:
   author:
     agent_name: Gautier, E. F. (Emile Félix)
@@ -31,6 +34,8 @@ creator:
     - https://en.wikipedia.org/wiki/%C3%89mile-F%C3%A9lix_Gautier
     - https://fr.wikipedia.org/wiki/%C3%89mile-F%C3%A9lix_Gautier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74092#Missions-au-Sahara-tome-1-b-Sahara-algerien
 gutenberg_issued: '2024-07-22'
 gutenberg_type: Text
 identifiers:
